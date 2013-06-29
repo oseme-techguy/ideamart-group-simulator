@@ -12,7 +12,7 @@ var date =new Date();
 var reqid=0;
 
 
- var socket = io.connect('http://secret-spire-2357.herokuapp.com');
+ var socket = io.connect('http://localhost:5000');
  
  socket.on('incomming', function (data) {
    incnmsg(data);
