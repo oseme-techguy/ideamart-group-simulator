@@ -31,3 +31,5 @@ Note : before sending sms click on config and set the Application URL
 
 ****
 Tested on Firefox 22v and Chrome 27
+
+license - MIT
