@@ -1,0 +1,27 @@
+{
+  "name": "idea-group-sim",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": "*"
+  },
+    "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": "",
+  "keywords": [
+    "ideamart",
+    "telco",
+    "sms"
+  ],
+  "author": "Pasindu De Silva",
+  "license": "MIT"
+}
