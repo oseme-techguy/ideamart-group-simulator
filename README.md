@@ -1,7 +1,7 @@
 
 #[Ideamart Group Simulator](https://github.com/pasindud/) 
 
-#### Ideamart Group Simulator is a simulator used to simulate ideamart  apps, inspired by Arunoda's Community Simulator
+ideamart Group Simulator is a simulator used to simulate ideamart  apps, inspired by Arunoda's Community Simulator
 
 ***
 #### Following are the node modules used
@@ -30,6 +30,6 @@ Note : before sending sms click on config and set the Application URL
 
 
 ****
-Tested on Firefox 22v and Chrome 27
+Tested on Firefox 22v and Chrome 27v
 
 license - MIT
