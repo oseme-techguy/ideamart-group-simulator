@@ -1,4 +1,3 @@
-
 #[Ideamart Group Simulator](https://github.com/pasindud/) 
 
 ideamart Group Simulator is a simulator used to simulate ideamart  apps, inspired by Arunoda's Community Simulator
@@ -25,6 +24,7 @@ git clone git://github.com/pasindud/Ideamart-Group-Simulator
 cd Ideamart-Group-Simulator
 npm install
 node app
+browse to http://localhost:8080 || Or the port shown on the console
 ```
 Note : before sending sms click on config and set the Application URL
 
