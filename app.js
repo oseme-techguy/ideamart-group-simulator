@@ -72,9 +72,9 @@ app.post('/sender', function(req,res){
       },
       body: JSON.stringify( req.body.message)
     }, function(error, response, body){
-
+		body=JSON.parse( body);
          if (!  response.statusCode == 200 || body.statusCode!="S1000") {
-           console.log('Error : Request Unsuccessfull'+body.statusCode+''+response.statusCode); 
+           console.log('Error : Request Unsuccessfull '+body.statusCode+' '+response.statusCode); 
         } 
   });
 });
