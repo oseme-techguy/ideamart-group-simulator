@@ -33,3 +33,7 @@ Note : before sending sms click on config and set the Application URL
 Tested on Firefox 22v and Chrome 27v
 
 license - MIT
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pasindud/ideamart-group-simulator/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
